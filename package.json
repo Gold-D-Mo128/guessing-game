@@ -9,14 +9,31 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@material-tailwind/react": "^2.1.10",
+    "@mui/icons-material": "^6.1.2",
+    "@mui/material": "^6.1.2",
+    "@mui/styled-engine-sc": "^6.1.2",
+    "@mui/x-charts": "^7.19.0",
+    "@nextui-org/react": "^2.4.8",
+    "apexcharts": "^3.54.0",
+    "chart.js": "^4.4.4",
+    "framer-motion": "^11.11.1",
+    "hugeicons-react": "^0.3.0",
+    "next": "14.2.14",
+    "nextui-cli": "^0.3.4",
     "react": "^18",
+    "react-apexcharts": "^1.4.1",
     "react-dom": "^18",
-    "next": "14.2.14"
+    "recharts": "^2.12.7",
+    "styled-components": "^6.1.13",
+    "zustand": "^5.0.0-rc.2"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
     "eslint": "^8",
-    "eslint-config-next": "14.2.14"
+    "eslint-config-next": "14.2.14",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
   }
 }
